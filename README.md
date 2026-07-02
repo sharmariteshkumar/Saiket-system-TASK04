@@ -67,20 +67,6 @@ fullstack-user-management-system/
 ├── README.md
 └── .gitignore
 ```
-
----
-
-Example:
-
-```text
-screenshots/
-│
-├── dashboard.png
-├── add-user.png
-├── edit-user.png
-├── search-user.png
-└── delete-user.png
-```
 ---
 
 # 🚀 API Endpoints
