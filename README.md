@@ -70,10 +70,6 @@ fullstack-user-management-system/
 
 ---
 
-# 🖥️ Dashboard Preview
-
-Add your project screenshots inside the **screenshots** folder.
-
 Example:
 
 ```text
@@ -85,19 +81,6 @@ screenshots/
 ├── search-user.png
 └── delete-user.png
 ```
-
-Then display them like this:
-
-```md
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-## Add User
-
-![Add User](screenshots/add-user.png)
-```
-
 ---
 
 # 🚀 API Endpoints
