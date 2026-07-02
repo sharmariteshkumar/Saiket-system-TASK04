@@ -199,9 +199,9 @@ Through this project, I learned:
 
 Full Stack Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sharmariteshkumar
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/sharmaritesh19
 
 ---
 
